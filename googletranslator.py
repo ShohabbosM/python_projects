@@ -1,3 +1,4 @@
+#Mahmadshoyev Shohabbos My first project
 #from cgitb import text
 from tkinter import *
 from tkinter import ttk,messagebox
